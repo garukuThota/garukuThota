@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garukuThota
 - 👀 I’m interested in Computer Architecture and System Software
 - 🌱 I’m currently learning hardware modeling
-- 💞️ I’m looking to collaborate on implementing ideas from research literature
+- 💞️ I’m looking to collaborate on implementing ideas from research
 - 📫 How to reach me ...
 
 <!---
